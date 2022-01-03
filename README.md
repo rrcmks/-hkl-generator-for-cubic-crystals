@@ -1,0 +1,2 @@
+# -hkl-generator-for-cubic-crystals
+Simple Python code to simulate {h k l}, d-spacing for the plane and unit cell length ('a') for cubic crystals from XRD data.  Input '2-theta' data from X-ray diffraction (XRD) as well as the possible maximum 'a' value in Angstroms. This can be extended to any crystal systems.  By Dr. M Kanagasabapathy Assistant Professor,  Department of Chemistry Rajapalayam Rajus' College Madurai Kamaraj University Rajapalayam 626117 (TN) India Homepage: www.enote.page/
