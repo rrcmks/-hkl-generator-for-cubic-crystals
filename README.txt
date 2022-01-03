@@ -1,5 +1,5 @@
-Simple Python code to simulate {h k l}, d-spacing for the plane and unit cell length ('a') for cubic crystals from XRD data. 
-Input '2-theta' data from X-ray diffraction (XRD) as well as the possible maximum 'a' value in Angstroms.
+Simple Python code to simulate {h k l} values, d-spacing for the plane and unit cell length ('a') for cubic crystals from XRD data. 
+Input '2-theta' data (in degree) from X-ray diffraction (XRD) as well as the possible maximum 'a' value in Angstroms.
 This can be extended to any crystal systems.
 
 By
@@ -9,5 +9,6 @@ Department of Chemistry
 Rajapalayam Rajus' College
 Madurai Kamaraj University
 Rajapalayam 626117 (TN) India
-Homepage: www.enote.page/
 
+Homepage: www.enote.page/
+e-Mail:mail(at)enote.page
